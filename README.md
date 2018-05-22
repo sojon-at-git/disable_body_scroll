@@ -1,0 +1,2 @@
+# disable_body_scroll
+stop_body_scroll_when_popup
